@@ -1,0 +1,92 @@
+body
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    overflow-y: hidden;
+    justify-content: center;
+    align-items: center;
+    background: #c7d0e4;
+    height: 100vh;
+}
+
+.font
+{
+    font-size: 15px;
+}
+
+.font-1
+{
+    font-size: 37px;
+}
+
+.text-center
+{
+    text-align: center;
+}
+
+.text-white
+{
+    color: rgb(250, 230, 230);
+}
+
+
+.flex
+{
+  display:flex;
+}
+
+.m-l
+{
+    margin-left: 55px;
+}
+
+.m-t
+{
+    margin-top: 153px;
+}
+
+.m-t-1
+{
+    margin-top: 45px;
+}
+
+.btn-1
+{
+    text-decoration: none;
+    background-color: rgb(145, 20, 162);
+    padding: 1px 1px;
+    border-radius: 5px;
+    border-color: rgb(175, 26, 195);
+}
+
+.a:hover 
+{
+    color: rgb(222, 122, 175);
+    border-bottom: 2px solid rgb(222, 122, 175);
+    text-decoration:underline;
+}
+
+.m-b
+{
+    margin-bottom: 10px;
+}
+
+.p-l
+{
+    padding-left: 35px;
+}
+
+.p-l-1
+{
+    padding-left: 55px;
+}
+
+
+.p-r
+{
+    padding-right: 35px;
+}
+
+.p-r-1
+{
+    padding-right: 55px;
+}
